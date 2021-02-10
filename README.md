@@ -1,8 +1,12 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Esta es una simple aplicacion de colas que utiliza Shokets para la comunicacion en tiempo real.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Es muy similar a la utilizada en las salas de espera en centros medicos on por administraciones.
+
+Puede verla en funcionamiento en el [siguiente enlace](https://aplicacion-cola.herokuapp.com/).
+
+Si desea ejcutarla en local, recuerde que debe de reconstruir los módulos de node con el comando
 
 ```
 npm install
